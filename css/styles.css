@@ -1,0 +1,27 @@
+
+    
+
+div{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    border: 15px solid yellow;
+    height: 320px;
+    width: 400px;
+    
+}
+.dos{
+    margin-left: 600px;
+}
+p{
+    margin-left: 120px;
+    margin-top: 70px;
+    margin-right:100px;
+    margin-bottom: 50px;
+    text-align: inherit;
+}
+.uno{
+    text-align: center;
+    
+}
